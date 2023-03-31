@@ -1,0 +1,6 @@
+Defina qual é a estrutura (hierarquia) dos objetos dentro do SGDB PostgreSQL?
+
+   Primeiro vc abre o dbeaver e cria um new database conection,depois cria um cluster
+databases usando o codigo (create database variavel), ou pode usar a que ja vem pronta
+depois crie um schema usando o codigo (create schema variavel),uma table (create table
+tb_variavel(variavel, tipo da variavel e quantidade de digito EX: pessoa varchar(100))).

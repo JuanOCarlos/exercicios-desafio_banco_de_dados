@@ -1,0 +1,4 @@
+Chave primária é um conjunto de campos na tabela do banco de dados que identifica cada
+registro na tabela.
+ E seus beneficios são integridade dos dados,eficiência e a capacidade de criar relacionamentos
+entre tabelas.
